@@ -2,6 +2,6 @@
 
 This is an educational project.
 
-> !NOTE
+> [!NOTE]
 > This is a machine learning library built with C from scratch
 
